@@ -1,7 +1,7 @@
-package main;
+package main
 
 import "fmt"
 
 func main() {
-	fmt.Printf("Hello golang!");
+    fmt.Printf("Hello golang!")
 }
